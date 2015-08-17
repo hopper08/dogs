@@ -3,3 +3,4 @@ Golden Retriever
 Chihuahua
 Newfoundland
 St Bernard
+Boxer
