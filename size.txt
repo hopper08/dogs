@@ -1,2 +1,5 @@
 large
 medium
+small
+extra small
+tiny
